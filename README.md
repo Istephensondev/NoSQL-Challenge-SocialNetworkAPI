@@ -27,7 +27,7 @@ Install Dependencies - 'npm i' to install dependencies and 'npm start' to run th
 
 ---
 ## 💻 Usage 
-link to the [instructional video](https://youtu.be/gAc_nTePaxo)
+link to the [instructional video](https://youtu.be/2nfZ_Zbs9y8)
     
 
 
